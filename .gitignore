@@ -1,6 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-_comfig.yml
-GemFile
-GemFile.lock
+._comfig.yml
+.GemFile
+.GemFile.lock
