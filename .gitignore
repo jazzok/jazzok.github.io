@@ -4,3 +4,12 @@ _site
 ._comfig.yml
 .GemFile
 .GemFile.lock
+._includes
+._layouts
+._post
+._sass
+.css
+.font-awesome
+.fonts
+.img
+.js
